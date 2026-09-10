@@ -1,2 +1,3 @@
-# App-dev-JustinKenneth-Goenett
-This is my GitHub Repository. 
+Justin Kenneth Goenett
+BSIT - 3 BLK - G
+I want to learn and build Android apps using flutter. 
